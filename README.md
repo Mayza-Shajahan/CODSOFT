@@ -64,5 +64,47 @@ This project focuses on layout design, alignment, spacing, and creativity while 
 
 ---
 
-## 📁 Repository Structure
+# Task 3: Basic Calculator
+
+This project is a simple **Basic Calculator Web Application** developed as part of the **CodSoft Web Development Internship**.  
+It is built using **HTML, CSS, and JavaScript** and performs basic arithmetic operations.
+
+---
+
+## 🔹 Project Description
+
+The calculator provides an interactive user interface with buttons for:
+
+- Addition (+)
+- Subtraction (−)
+- Multiplication (×)
+- Division (÷)
+
+It includes a display screen that shows user inputs and calculation results.  
+The project focuses on clean UI layout, proper alignment, and responsive design using the **CSS Grid system**.
+
+---
+
+## 🔹 Features
+
+- User-friendly calculator interface
+- Real-time display of input and output
+- Supports basic arithmetic operations
+- Responsive and well-aligned button layout
+- Uses event listeners and conditional logic
+
+---
+
+## 🔹 Technologies Used
+
+- **HTML** – Structure of the calculator
+- **CSS** – Styling and layout using Grid system
+- **JavaScript** – Logic for calculations and user interaction
+
+---
+
+📁 **Folder:** `Task-3-Calculator`
+
+---
+
 
